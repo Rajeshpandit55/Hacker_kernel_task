@@ -14,7 +14,7 @@ A simple Project with Frontend and backend Setup with Authentaction and Authoriz
      ```
      ``` bash
      npm run start
-     ```
+
 ### To start Backend
 2.Navigate to the `backend` directory:
      ```bash
