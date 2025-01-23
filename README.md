@@ -27,4 +27,10 @@ A simple Project with Frontend and backend Setup with Authentaction and Authoriz
      ```bash
      npm run dev
      ```
+
+
+### Technologies
+#### Frontend: React Js,Tailwind CSS
+#### Backend: Node Js,Express JS,Mongodb
+
      
