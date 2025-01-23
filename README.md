@@ -17,7 +17,7 @@ A simple Project with Frontend and backend Setup with Authentaction and Authoriz
      ```
 
 ### To start Backend
-2.Navigate to the `backend` directory:
+2. Navigate to the `backend` directory:
      ```bash
      cd backend
      ```
